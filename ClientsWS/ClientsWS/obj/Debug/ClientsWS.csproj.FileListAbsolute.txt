@@ -1,0 +1,11 @@
+D:\Distributed Systems Workspace\Assignment4\ClientsWS\ClientsWS\bin\ClientsWS.dll.config
+D:\Distributed Systems Workspace\Assignment4\ClientsWS\ClientsWS\bin\ClientsWS.dll
+D:\Distributed Systems Workspace\Assignment4\ClientsWS\ClientsWS\bin\ClientsWS.pdb
+D:\Distributed Systems Workspace\Assignment4\ClientsWS\ClientsWS\obj\Debug\ClientsWS.csprojResolveAssemblyReference.cache
+D:\Distributed Systems Workspace\Assignment4\ClientsWS\ClientsWS\obj\Debug\ClientsWS.dll
+D:\Distributed Systems Workspace\Assignment4\ClientsWS\ClientsWS\obj\Debug\ClientsWS.pdb
+D:\Distributed Systems Workspace\Assignment4\ClientsWS\ClientsWS\bin\Iesi.Collections.dll
+D:\Distributed Systems Workspace\Assignment4\ClientsWS\ClientsWS\bin\NHibernate.dll
+D:\Distributed Systems Workspace\Assignment4\ClientsWS\ClientsWS\bin\Iesi.Collections.xml
+D:\Distributed Systems Workspace\Assignment4\ClientsWS\ClientsWS\bin\NHibernate.pdb
+D:\Distributed Systems Workspace\Assignment4\ClientsWS\ClientsWS\bin\NHibernate.xml

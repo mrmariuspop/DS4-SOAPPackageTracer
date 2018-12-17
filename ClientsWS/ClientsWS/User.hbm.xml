@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="ClientsWS.User, ClientsWS" table="user">
+    <id name="Username" column="username" type="String"></id>
+    <property name="Password" column="password" type="String"></property>
+    <property name="Role" column="role" type="String"></property>
+  </class>
+
+  <class name="ClientsWS.TracePackage, ClientsWS" table="tracepackage">
+    <id name="id" column="id" type="int">
+      <generator class="native"></generator>
+    </id>
+    <property name="sender" column="sender" type="String"></property>
+    <property name="receiver" column="receiver" type="String"></property>
+    <property name="name" column="name" type="String"></property>
+    <property name="description" column="description" type="String"></property>
+    <property name="senderCity" column="sender_city" type="String"></property>
+    <property name="destinationCity" column="destination_city" type="String"></property>
+    <property name="tracking" column="tracking" type="String"></property>
+    <property name="currentCity" column="current_city" type="String"></property>
+  </class>
+</hibernate-mapping>
